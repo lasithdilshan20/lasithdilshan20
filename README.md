@@ -26,6 +26,11 @@ I'm Lasitha Wijenayake, a Software Test Automation Engineer with expertise in Cy
 
 <img alt="Cypress Logo" src="https://github.com/cypress-io/cypress/raw/develop/assets/cypress-logo-dark.png" width="200px" height="100px">    <img src="https://selenium.dev/images/selenium_logo_square_green.png" width="100" alt="Selenium" height="100px">  <img src="https://avatars.githubusercontent.com/u/10251060?s=200&amp;v=4" width="100" height="100" alt="@postmanlabs"> <h1><g-emoji class="g-emoji" alias="performing_arts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ad.png">🎭</g-emoji> Playwright</h1> 
 
+#### 📫 Articles:
+
+- [Cypress Real Events: Simulating Real User Interactions in Your Tests](https://www.linkedin.com/pulse/cypress-real-events-simulating-user-interactions-your-wijenayake)
+- [Test Automation with AI Prompt Engineering Technologies](https://www.linkedin.com/pulse/test-automation-ai-prompt-engineering-technologies-lasitha-wijenayake)
+
 #### 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/lasitha-wijenayake-b8a43bb5/)
