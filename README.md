@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Lasitha Wijenayake, a Software Test Automation Engineer with expertise in Cypress test automation. I'm also a Cypress expert and Cypress ambassador.
+I'm Lasitha Wijenayake, a Software Test Automation Engineer. I'm also a Cypress expert and Cypress ambassador.
 
 <a href="https://www.cypress.io/blog/2022/06/16/cypress-ambassador-spotlight-lasitha/">
   <img src="https://www.cypress.io/blog/content/images/2022/06/Blog_Ambassador-Spotlight_Lasitha-Wijenayake.png" alt="Cypress Ambassador Spotlight" height="300" width="600">
