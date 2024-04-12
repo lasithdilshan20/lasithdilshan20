@@ -47,3 +47,8 @@ I'm Lasitha Wijenayake, a Software Test Automation Engineer. I'm also a Cypress 
 #### 📈 GitHub Stats:
 
 [![Lasith's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasithdilshan20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Get in Touch 📬
+
+- **[Medium]**(https://lasithdilshan20.medium.com/)
+- **[LinkedIn]**(https://www.linkedin.com/in/lasitha-wijenayake-b8a43bb5/)
