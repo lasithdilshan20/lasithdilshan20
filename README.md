@@ -1,6 +1,11 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Lasitha Wijenayake</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm Lasitha Wijenayake, a Software Test Automation Engineer. I'm also a Cypress expert and Cypress ambassador.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+In+Test;Cypress+Ambassador">
+  </a>
+</p>
+
 
 <a href="https://www.cypress.io/blog/2022/06/16/cypress-ambassador-spotlight-lasitha/">
   <img src="https://www.cypress.io/blog/content/images/2022/06/Blog_Ambassador-Spotlight_Lasitha-Wijenayake.png" alt="Cypress Ambassador Spotlight" height="300" width="600">
