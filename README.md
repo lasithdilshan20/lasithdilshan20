@@ -14,7 +14,7 @@
 #### 🌟 Top Projects:
 
 - [cypress-plugin-store](https://github.com/lasithdilshan20/cypress-plugin-store) - Store values during the executions and retrieve in any test case in the same spec file.
-- - [cypress-intercept-search](https://github.com/lasithdilshan20/cypress-intercept-search) - A Cypress plugin that adds a custom command to search and assert values in intercepted requests and responses.
+- [cypress-intercept-search](https://github.com/lasithdilshan20/cypress-intercept-search) - A Cypress plugin that adds a custom command to search and assert values in intercepted requests and responses.
 
 #### 🌟 NPM Plugins for cypress:
 
